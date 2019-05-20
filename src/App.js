@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-           DIFFERENT A THIRD TIME?! OMG OMG!
+           Continuing to get the hang of Docker!!!
         </p>
         <a
           className="App-link"
